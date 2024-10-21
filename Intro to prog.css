@@ -1,0 +1,26 @@
+ul{
+    background-color: rgb(142, 127, 236);
+    margin: 250px;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    padding: 5px;
+}
+li{
+    list-style-type: none;
+}
+p{
+    background-color: white;
+    padding: 1%;
+}
+h3:hover {
+    background-color: rgb(251, 255, 0);
+}
+h3{
+    text-align: center;
+    margin: 250px;
+    margin-top: 0%;
+    background-color: green;
+}
+span{
+    background-color: white;
+}
